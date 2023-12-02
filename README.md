@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amcalstrings
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Python development
+- 🌱 I code with Python 
 - 💞️ I’m looking to collaborate on Python Flask apps
 - 📫 How to reach me ameducaleb@gmail.com
 
