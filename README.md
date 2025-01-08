@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Amcalstrings
-- 👀 I’m interested in Software development
-- 🌱 I code with Python 
-- 💞️ I’m looking to collaborate on Python Flask apps
-- 📫 How to reach me ameducaleb@gmail.com
+- 👀 I am a DevOps Engineer and a Full Stack Software Developer 
+- 💞️ I’m looking to collaborate on DevOps Projects, as well as Software Development Projects 
+- 📫 How to reach me: ameducaleb@gmail.com
 
 <!---
 Amcalstrings/Amcalstrings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
